@@ -1,0 +1,4 @@
+streamlit>=1.38,<2.0
+earthengine-api>=1.4,<2.0
+geemap>=0.35,<1.0
+folium>=0.17,<1.0
